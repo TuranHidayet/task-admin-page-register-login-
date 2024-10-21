@@ -1,0 +1,20 @@
+body{
+    background-image: url(../images/bck_admin.jpg);
+    width: 100wh;
+    height: 100vh;
+    background-position: center; 
+    background-size: cover; 
+    text-align: center;
+    background-repeat: no-repeat;
+}
+
+.content-admin{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.admin-word h2{
+    color: white;
+    font-size: 44px;
+}

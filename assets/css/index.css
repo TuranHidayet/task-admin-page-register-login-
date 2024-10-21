@@ -1,0 +1,16 @@
+body{
+    background-image: url(../images/home_bck_img.jpg);
+    width: 100wh;
+    height: 100vh;
+    background-position: center; 
+    background-size: cover; 
+    text-align: center;
+    background-repeat: no-repeat;
+}
+
+.content-home{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;
+    column-gap: 20px;
+}

@@ -1,0 +1,24 @@
+body {
+  background-image: url(../images/login_img.jpg);
+  width: 100wh;
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
+  text-align: center;
+  background-repeat: no-repeat;
+}
+
+.loginPg{
+    margin-top: 100px;
+}
+
+.col-form-label{
+    border-radius: 8px;
+    background-color: rgb(15, 15, 15);
+    color: white;
+    font-size: 24px;
+}
+
+.login-center{
+  margin-left: 300px;
+}
